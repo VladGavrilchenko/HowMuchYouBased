@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41e92361a1d63da4ca770059a1b2f065, type: 3}
+  m_Name: Do you know a
+  m_EditorClassIdentifier: 
+  _question: Do you know a
+  _questionSprite: {fileID: 21300000, guid: 73846ecde25950a4783740b2bb5b9c13, type: 3}
+  _answers:
+  - way
+  - fate
+  - queen
+  - kna-kna
+  _correctAnswerIndex: 0

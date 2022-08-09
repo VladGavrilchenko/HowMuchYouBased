@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41e92361a1d63da4ca770059a1b2f065, type: 3}
+  m_Name: In which country did Pink guy shoot the video
+  m_EditorClassIdentifier: 
+  _question: In which country did Pink guy shoot the video
+  _questionSprite: {fileID: 21300000, guid: 55f4e9e7c7064744f9782aee71a8eb30, type: 3}
+  _answers:
+  - Brazil
+  - Korea
+  - USA
+  - Japan
+  _correctAnswerIndex: 2
